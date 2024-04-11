@@ -1,4 +1,4 @@
-## FastAPI & Whisper Audio Transcription and AI Answering
+## FastAPI & Open AI Whisper Audio Transcription
 
 This repository contains a FastAPI application for transcribing audio files and generating AI-powered answers based on the transcribed text. The application utilizes the OpenAI API for generating answers.
 
